@@ -1,0 +1,12 @@
+# Rust build files
+/target/
+
+# Rust dependency files
+/Cargo.lock
+
+# IDEs
+.idea/
+.vscode/
+
+# Mac system files
+.DS_Store
