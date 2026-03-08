@@ -1,15 +1,12 @@
 # Rust build files
-/target/
+target/
 
-# Rust dependency files
-/Cargo.lock
-
-# IDEs
-.idea/
-.vscode/
+# Taxi dataset
+data/
 
 # Mac system files
 .DS_Store
-data/
-data/
-data/
+
+# IDE files
+.vscode/
+.idea/
